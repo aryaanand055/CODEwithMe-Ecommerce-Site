@@ -1,0 +1,27 @@
+{
+  "name": "ecommerce_website",
+  "version": "1.0.0",
+  "description": "It is an ecommerce website made with react and mongodb in node.js environment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryaanand055/Ecommerce-Website-using-React-and-MongoDB.git"
+  },
+  "keywords": [
+    "mongodb",
+    "react",
+    "website"
+  ],
+  "author": "Arya A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryaanand055/Ecommerce-Website-using-React-and-MongoDB/issues"
+  },
+  "homepage": "https://github.com/aryaanand055/Ecommerce-Website-using-React-and-MongoDB#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
